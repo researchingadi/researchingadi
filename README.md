@@ -14,7 +14,7 @@
 
 <div align="center">
 
-MS Cybersecurity · Statistics · Mississippi State University
+AI/ML · Statistics · Computational Science
 
 *uncertainty quantification · conformal prediction · astrophysics*
 
