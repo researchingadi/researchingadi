@@ -12,7 +12,10 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=operator2036&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
+![MS Cybersecurity](https://img.shields.io/badge/MS_Cybersecurity-Mississippi_State-7C3AED?style=flat-square&labelColor=0d0d0d)
+![Statistics Minor](https://img.shields.io/badge/Statistics_Minor-UQ_%26_Inference-A78BFA?style=flat-square&labelColor=0d0d0d)
+![Research](https://img.shields.io/badge/Research-Gravitational_Waves_%C2%B7_Black_Holes-C4B5FD?style=flat-square&labelColor=0d0d0d)
+![Target](https://img.shields.io/badge/Target-Princeton_%7C_MIT_·_Fall_2028-7C3AED?style=flat-square&labelColor=0d0d0d)
 
 </div>
 
