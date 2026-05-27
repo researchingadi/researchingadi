@@ -1,3 +1,30 @@
+# Hi, I'm Adi 👋🏽 🔭
+
+<img src="./adibanner.png" alt="purple sci-fi banner for Adi's GitHub profile">
+
+I'm a Master's student and researcher at @**Msstate** building uncertainty-aware machine learning systems for noisy physical environments — places where standard confidence estimates break down and you need guarantees that actually hold.
+
+My current work applies **conformal prediction** to gravitational wave detection, focusing on the gap between synthetic training data and real LIGO detector noise. Prior work uncovered the *Evaluation Paradox* in physics-constrained time series — proving that standard random splits mask temporal dependencies and produce invalid model selection.
+
+I have a weird curiosity towards applying ML to world's most complex scientific problems and using programming to build that research infrastructure. I love studying Math, Statistics and Physics and doing nightlong coding sessions on my couch.
+
+Outside of research, I like playing Football, Urban Exploration, reading Philosophy, and watching *Suits*.
+
+**Merci d'avoir lu.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <img src="./adibanner.png" width="100%" alt="Adi banner" />
