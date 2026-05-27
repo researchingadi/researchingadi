@@ -10,7 +10,7 @@ My current work applies **conformal prediction** to gravitational wave detection
 
 I have a weird curiosity towards applying ML to world's most complex scientific problems and using programming to build that research infrastructure. I love studying Math, Statistics and Physics and doing nightlong coding sessions on my couch.
 
-Outside of research, I like playing Football, Urban Exploration, reading Philosophy, and watching *Suits*.
+Outside of research, I like playing Football, Urban Exploration and reading Philosophy in my free time, if I am not watching "Suits".
 
 **Merci d'avoir lu.**
 
