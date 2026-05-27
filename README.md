@@ -56,6 +56,7 @@ Merci d'avoir lu.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithedev/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/researchingadi)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=A78BFA)](https://x.com/researchingadi)
 
 </div>
 
