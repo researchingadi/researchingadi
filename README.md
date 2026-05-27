@@ -2,7 +2,7 @@
 
 <img src="./adibanner.png" alt="purple sci-fi banner for Adi's GitHub profile">
 
-I'm a Master's student and researcher at @**Msstate** 
+I'm a Master's student and researcher at @**MSU** 
 
 I am currently building uncertainty-aware machine learning systems for noisy physical environments — places where standard confidence estimates break down and you need guarantees that actually hold.
 
