@@ -55,6 +55,8 @@ Merci d'avoir lu.
 
 ## About me:
 
+## About me:
+
 Hi, i'm **Adi** — a Master's student and researcher @msstate.
 
 I build uncertainty-aware ML systems for noisy physical environments — places where standard confidence estimates break down and you need guarantees that actually hold.
@@ -67,6 +69,9 @@ I have a weird curiosity towards applying ML to world's most complex scientific 
 
 I love studying Math, Statistics and Physics and doing nightlong coding sessions on my couch.
 
+Other than that, I also like playing Football, Urban Exploration and reading Philosophy in my free time, if I am not watching "Suits".
+
+Merci d'avoir lu.
 Other than that, I also like playing Football, Urban Exploration and reading Philosophy in my free time, if I am not watching "Suits".
 
 Merci d'avoir lu.
