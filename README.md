@@ -10,14 +10,19 @@
 />
 
 
-<br/>
-### here's some of my work
+<br/><br/>
  
-[![Soil Moisture](https://github-readme-stats.vercel.app/api/pin/?username=researchingadi&repo=Physics-Aware-Soil-Moisture-ML&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&bg_color=0d0d0d)](https://github.com/researchingadi/Physics-Aware-Soil-Moisture-ML)
-[![Black Hole Simulator](https://github-readme-stats.vercel.app/api/pin/?username=researchingadi&repo=Kerr-Blackhole-Simulator&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&bg_color=0d0d0d)](https://github.com/researchingadi/Kerr-Blackhole-Simulator)
-
-
+**here's some of my work**
+ 
+<br/>
+<a href="https://github.com/researchingadi/Physics-Aware-Soil-Moisture-ML">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=researchingadi&repo=Physics-Aware-Soil-Moisture-ML&theme=dark&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&bg_color=0d0d0d&border_color=7C3AED" />
+</a>
+<a href="https://github.com/researchingadi/Kerr-Blackhole-Simulator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=researchingadi&repo=Kerr-Blackhole-Simulator&theme=dark&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&bg_color=0d0d0d&border_color=7C3AED" />
+</a>
 </div>
+
 
 ---
 
