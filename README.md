@@ -12,6 +12,17 @@ Outside of research, I like playing Football, Urban Exploration, reading Philoso
 
 **Merci d'avoir lu.**
 
+## Featured projects 🚀
+
+- <a href="https://github.com/researchingadi/Physics-Aware-Soil-Moisture-ML">Physics-Aware Soil Moisture ML</a> — ANN vs LSTM soil moisture prediction with uncertainty quantification and explainability
+- <a href="https://github.com/researchingadi/Kerr-Blackhole-Simulator">Kerr Black Hole Simulator</a> — physics-inspired black hole visualization engine using Three.js, WebGL, GLSL, and TensorFlow.js
+
+## Find me around the web 🌎
+
+- Research/building in public on <a href="https://x.com/researchingadi">X</a> 🔭
+- Connecting professionally on <a href="https://www.linkedin.com/in/adithedev/">LinkedIn</a> 💼
+- Sharing projects here on <a href="https://github.com/researchingadi">GitHub</a> 🧑🏽‍💻
+
 
 
 
