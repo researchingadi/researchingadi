@@ -43,7 +43,9 @@ I have a weird curiosity towards applying ML to world's most complex scientific 
 
 I love studying Math, Statistics and Physics and doing nightlong coding sessions on my couch. 
 
-Other than that, I also like playing football and  
+Other than that, I also like playing Football, Urban Exploration and reading Philosophy in my free time, if I am not watching "Suits".
+
+Merci d'avoir lu.
 
 ---
 
