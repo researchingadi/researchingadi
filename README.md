@@ -5,7 +5,7 @@
 # Adi
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=hi%2C+I'm+Adi+Singh;a+scientific+machine+learning+researcher;I+love+to+code+and+build+things;and+use+them+for+my+own+research;hope+you+enjoy+looking+through+my+work+%F0%9F%94%AD" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=hi%2C+I'm+Adi;a+scientific+machine+learning+researcher;I+love+to+code+and+build+things;and+use+them+for+my+own+research;hope+you+enjoy+looking+through+my+work+%F0%9F%94%AD" 
   alt="Typing SVG" 
 />
 
