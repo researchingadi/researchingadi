@@ -10,19 +10,32 @@
 />
 
 
-<br/><br/>
- 
-**here's some of my work**
- 
 <br/>
-<a href="https://github.com/researchingadi/Physics-Aware-Soil-Moisture-ML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=researchingadi&repo=Physics-Aware-Soil-Moisture-ML&theme=dark&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&bg_color=0d0d0d&border_color=7C3AED" />
-</a>
-<a href="https://github.com/researchingadi/Kerr-Blackhole-Simulator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=researchingadi&repo=Kerr-Blackhole-Simulator&theme=dark&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&bg_color=0d0d0d&border_color=7C3AED" />
-</a>
-</div>
 
+<h2 align="center">here's some of my work</h2>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td width="420" align="center">
+      <br/>
+      <h3>Physics-Aware Soil Moisture ML</h3>
+      <a href="https://github.com/researchingadi/Physics-Aware-Soil-Moisture-ML">
+        <b>View Repository →</b>
+      </a>
+      <br/><br/>
+    </td>
+    <td width="420" align="center">
+      <br/>
+      <h3>Kerr Blackhole Simulator</h3>
+      <a href="https://github.com/researchingadi/Kerr-Blackhole-Simulator">
+        <b>View Repository →</b>
+      </a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,17 +45,19 @@
 
 </div>
 
-hi, i'm **Adi** — a master's student and researcher at Mississippi State University.
+Hi, i'm **Adi** — a Master's student and researcher @msstate.
 
 I build uncertainty-aware ML systems for noisy physical environments — places where standard confidence estimates break down and you need guarantees that actually hold.
 
-my current work applies **conformal prediction** to gravitational wave detection, closing the gap between synthetic training data and real LIGO detector noise.
+My current work applies **conformal prediction** to gravitational wave detection, closing the gap between synthetic training data and real LIGO detector noise.
 
-prior work uncovered the *Evaluation Paradox* in physics-constrained time series — proving that standard random splits mask temporal dependencies and produce invalid model selection.
+Prior work uncovered the *Evaluation Paradox* in physics-constrained time series — proving that standard random splits mask temporal dependencies and produce invalid model selection.
 
-> research → build → validate → publish → repeat
+I have a weird curiosity towards applying ML to world's most complex scientific problems and using programming to build that research infrastructure.
 
-long-term: **black holes · particle astrophysics · the information paradox**
+I love studying Math, Statistics and Physics and doing nightlong coding sessions on my couch. 
+
+Other than that, I also like playing football and  
 
 ---
 
