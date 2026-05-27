@@ -12,30 +12,16 @@
 
 <br/>
 
-<h2 align="center">here's some of my work</h2>
+<h3 align="center">featured work</h3>
 
-<br/>
-
-<table align="center">
-  <tr>
-    <td width="420" align="center">
-      <br/>
-      <h3>Physics-Aware Soil Moisture ML</h3>
-      <a href="https://github.com/researchingadi/Physics-Aware-Soil-Moisture-ML">
-        <b>View Repository →</b>
-      </a>
-      <br/><br/>
-    </td>
-    <td width="420" align="center">
-      <br/>
-      <h3>Kerr Blackhole Simulator</h3>
-      <a href="https://github.com/researchingadi/Kerr-Blackhole-Simulator">
-        <b>View Repository →</b>
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/researchingadi/Physics-Aware-Soil-Moisture-ML">
+    <img src="https://img.shields.io/badge/soil%20moisture%20ml-2E1065?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=0D0D0D" />
+  </a>
+  <a href="https://github.com/researchingadi/Kerr-Blackhole-Simulator">
+    <img src="https://img.shields.io/badge/blackhole%20simulator-2E1065?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=0D0D0D" />
+  </a>
+</p>
 
 ---
 
