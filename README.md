@@ -5,7 +5,7 @@
 # operator2036
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=hi%2C+i'm+Adi+Singh;scientific+ML+researcher;uncertainty+quantification+%C2%B7+conformal+prediction;gravitational+waves+%C2%B7+black+hole+physics;building+toward+the+information+paradox" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=hi%2C+I'm+Adi;scientific+ML+researcher;I love to build programs+%C2%B7+and use them for my own research+%C2%B7+black+hole+physics;building+toward+the+information+paradox" 
   alt="Typing SVG" 
 />
 
