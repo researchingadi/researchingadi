@@ -37,7 +37,6 @@
 Hi, i'm **Adi** — a Master's student and researcher @msstate.
 
 I build uncertainty-aware ML systems for noisy physical environments — places where standard confidence estimates break down and you need guarantees that actually hold.
-
 My current work applies **conformal prediction** to gravitational wave detection, closing the gap between synthetic training data and real LIGO detector noise.
 
 Prior work uncovered the *Evaluation Paradox* in physics-constrained time series — proving that standard random splits mask temporal dependencies and produce invalid model selection.
