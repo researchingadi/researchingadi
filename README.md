@@ -31,5 +31,5 @@ AI/ML · Statistics · Computational Science
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=operator2036&bg_color=0d0d0d&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=researchingadi&bg_color=0d0d0d&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="90%"/>
 </div>
