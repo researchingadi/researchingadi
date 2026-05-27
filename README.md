@@ -53,9 +53,10 @@ Merci d'avoir lu.
 </div>
 
 
-## About me:
+## ✨ About Me ✨
 
-## About me:
+</div>
+
 
 Hi, i'm **Adi** — a Master's student and researcher @msstate.
 
