@@ -12,7 +12,7 @@
 
 <br/>
 
-<h3 align="center">featured work</h3>
+<h3 align="center">Here's some of my work</h3>
 
 <p align="center">
   <a href="https://github.com/researchingadi/Physics-Aware-Soil-Moisture-ML">
