@@ -1,5 +1,7 @@
 <div align="center">
+
 <img src="./adibanner.png" width="100%" alt="Adi banner" />
+
 <br/>
 
 # Adi
@@ -8,7 +10,6 @@
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Adi;a+scientific+machine+learning+researcher;I+love+to+code+and+build+things;and+use+them+for+my+own+research;Hope+you+enjoy+looking+through+my+work+%F0%9F%94%AD" 
   alt="Typing SVG" 
 />
-
 
 <br/>
 
@@ -23,25 +24,31 @@
   </a>
 </p>
 
+</div>
+
 ---
 
 <div align="center">
 
 ## About me:
 
+</div>
+
 Hi, i'm **Adi** — a Master's student and researcher @msstate.
 
 I build uncertainty-aware ML systems for noisy physical environments — places where standard confidence estimates break down and you need guarantees that actually hold.
+
 My current work applies **conformal prediction** to gravitational wave detection, closing the gap between synthetic training data and real LIGO detector noise.
+
 Prior work uncovered the *Evaluation Paradox* in physics-constrained time series — proving that standard random splits mask temporal dependencies and produce invalid model selection.
+
 I have a weird curiosity towards applying ML to world's most complex scientific problems and using programming to build that research infrastructure.
+
 I love studying Math, Statistics and Physics and doing nightlong coding sessions on my couch.
 
 Other than that, I also like playing Football, Urban Exploration and reading Philosophy in my free time, if I am not watching "Suits".
 
 Merci d'avoir lu.
-
----
 
 ---
 
@@ -51,31 +58,6 @@ Merci d'avoir lu.
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/researchingadi)
 
 </div>
-
-
-## ✨ About Me ✨
-
-</div>
-
-
-Hi, i'm **Adi** — a Master's student and researcher @msstate.
-
-I build uncertainty-aware ML systems for noisy physical environments — places where standard confidence estimates break down and you need guarantees that actually hold.
-
-My current work applies **conformal prediction** to gravitational wave detection, closing the gap between synthetic training data and real LIGO detector noise.
-
-Prior work uncovered the *Evaluation Paradox* in physics-constrained time series — proving that standard random splits mask temporal dependencies and produce invalid model selection.
-
-I have a weird curiosity towards applying ML to world's most complex scientific problems and using programming to build that research infrastructure.
-
-I love studying Math, Statistics and Physics and doing nightlong coding sessions on my couch.
-
-Other than that, I also like playing Football, Urban Exploration and reading Philosophy in my free time, if I am not watching "Suits".
-
-Merci d'avoir lu.
-Other than that, I also like playing Football, Urban Exploration and reading Philosophy in my free time, if I am not watching "Suits".
-
-Merci d'avoir lu.
 
 ---
 
