@@ -8,7 +8,7 @@ I am currently building uncertainty-aware machine learning systems for noisy phy
 
 My current work applies **conformal prediction** to gravitational wave detection, focusing on the gap between synthetic training data and real LIGO detector noise. Prior work uncovered the *Evaluation Paradox* in physics-constrained time series — proving that standard random splits mask temporal dependencies and produce invalid model selection.
 
-I have a weird curiosity towards applying ML to world's most complex scientific problems and using programming to build that research infrastructure. I love studying Math, Statistics and Physics and doing nightlong coding sessions on my couch.
+I have a weird curiosity towards applying ML to world's most complex scientific problems and using programming to build that research infrastructure. I love studying Math, Statistics and Physics and doing nightlong coding sessions on my couch. Quantative Research also happens to be one of the fields I have an infatuation towards.
 
 Outside of research, I like playing Football, Urban Exploration and reading Philosophy in my free time, if I am not watching "Suits".
 
