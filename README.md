@@ -4,9 +4,9 @@
 
 I'm a Master's student and graduate researcher at @**MSU** 
 
-I am currently building uncertainty-aware machine learning systems for noisy physical environments — places where standard confidence estimates break down and you need guarantees that actually hold.
+I am currently building uncertainty-aware machine learning systems for noisy physical environments, places where standard confidence estimates break down and you need guarantees that actually hold.
 
-My current work applies **conformal prediction** to gravitational wave detection, focusing on the gap between synthetic training data and real LIGO detector noise. Prior work uncovered the *Evaluation Paradox* in physics-constrained time series — proving that standard random splits mask temporal dependencies and produce invalid model selection.
+My current work applies **conformal prediction** to gravitational wave detection, focusing on the gap between synthetic training data and real LIGO detector noise. Prior work uncovered the *Evaluation Paradox* in physics-constrained time series, proving that standard random splits mask temporal dependencies and produce invalid model selection.
 
 I have a weird curiosity towards applying ML to world's most complex scientific problems and using programming to build that research infrastructure. I love studying Math, Statistics and Physics and doing nightlong coding sessions on my couch. Quantative Research also happens to be one of the fields I have an infatuation towards.
 
